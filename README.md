@@ -21,3 +21,18 @@ Make sure Python is installed (version 3.8+ recommended). Then install dependenc
 
 ```bash
 pip install numpy scikit-learn
+
+---
+
+## Usage
+
+Run the Python script:
+
+```bash
+python semantic_shift_cosine_similarity.py
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see `LICENSE` for details.
