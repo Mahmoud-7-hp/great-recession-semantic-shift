@@ -8,7 +8,7 @@ This repository includes both the **code** and the **full paper**:
 
 ## Contents
 
-- `semantic_shift.py` — Python script computing cosine similarity for key economic terms (`Economy`, `Job`, `Crisis`) across 2005, 2009, and 2011.  
+- `semantic_shift_cosine_similarity.py` — Python script computing cosine similarity for key economic terms (`Economy`, `Job`, `Crisis`) across 2005, 2009, and 2011.  
 - `Semantic_and_Frequency_Shifts_in_Economic_Discourse_Due_to_the_Great_Recession_A_Corpus_Based_Study.pdf` — full paper.  
 - `.gitignore` — excludes unnecessary system or temporary files.  
 - `LICENSE` — MIT License for code usage.
